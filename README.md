@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi👋, I'm Apoorva 
 
-Trying to make healthcare data a little more useful with AI.
+Spending my time trying to make healthcare data a little more useful with AI.
